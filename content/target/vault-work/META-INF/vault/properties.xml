@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Bootcamp Project Package</comment>
+<entry key="createdBy">intelligrape</entry>
+<entry key="name">bootcamp-content</entry>
+<entry key="created">2013-10-25T11:08:59.151+0530</entry>
+<entry key="groupId">bootcampid</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">IntelliGrape</entry>
+<entry key="description">Maven Multimodule project for Bootcamp Project.</entry>
+<entry key="artifactId">bootcamp-content</entry>
+<entry key="path">/etc/packages/IntelliGrape/bootcamp-content.zip</entry>
+</properties>
